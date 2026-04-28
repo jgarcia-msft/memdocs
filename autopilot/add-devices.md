@@ -41,7 +41,7 @@ This article provides step-by-step guidance for manual registration. For more in
 
 ## Required permissions
 
-Device enrollment requires *Intune Administrator* or *Policy and Profile Manager* permissions. A custom Windows Autopilot device manager role can also be created by using [role-based access control (RBAC)](/intune/fundamentals/role-based-access-control/overview). Windows Autopilot device management requires only that all permissions under **Enrollment programs** are enabled, except for the four token management options.
+Device enrollment requires *Intune Administrator* or *Policy and Profile Manager* permissions. A custom Windows Autopilot device manager role can also be created by using [role-based access control (RBAC)](/intune/fundamentals/role-based-access-control/overview). Windows Autopilot device management requires only that all permissions under **Enrollment programs** are enabled, except for the four token management options, and the Organization/Read permission.
 
 > [!NOTE]
 >
